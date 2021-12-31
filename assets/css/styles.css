@@ -1,0 +1,39 @@
+.btn-primary {
+  color: #fff;
+  background-color: #495057;
+  border-color: #495057;
+}
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: #fdcfa5;
+  border-color: #fdcfa5;
+}
+
+.btn-outline-primary {
+  color: #495057;
+  border-color: #495057;
+}
+
+.btn-outline-primary:hover {
+  color: #fff;
+  background-color: #fdcfa5;
+  border-color: #fdcfa5;
+}
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: #fdcfa5;
+  border-color: #fdcfa5;
+}
+
+button:focus:not(:focus-visible) {
+  outline: 0;
+}
+
+@media (max-width: 500px) {
+  .deskview {
+    display: none;
+  }
+}
+

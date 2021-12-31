@@ -1,0 +1,17 @@
+div.jumbotron.product-month {
+  background: linear-gradient(to right, rgba(0,0,0,0), rgb(0,0,0)), url(gestion-foret-saviez-vous.jpg);
+  color: #fff;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+nav {
+  scroll-behavior: smooth;
+}
+
+.oneline {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
